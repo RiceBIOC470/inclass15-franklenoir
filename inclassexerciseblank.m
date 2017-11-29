@@ -1,3 +1,15 @@
+% GB comments
+Step1 0 Need to provide code or a separate image file showing you imported and saved the images separately. 
+Step2 100 
+Step3 50 Need to use cat function to overlay images correctly
+Step4 90 should really use segmented images for this step. 
+Step5 100
+Step6 100 
+Step7 100 
+Step8 100
+Overall 80
+
+
 %% step 1: write a few lines of code or use FIJI to separately save the
 % nuclear channel of the image Colony1.tif for segmentation in Ilastik
 
